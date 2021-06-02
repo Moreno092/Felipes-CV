@@ -49,7 +49,7 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-linkedin" aria-hidden="true"/>
-                    <a href="https://www.linkedin.com/in/felipe-nyberg/">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/felipe-nyberg/">LinkedIn</a >
                   </ListItemContent>
                 </ListItem>
 

@@ -5,7 +5,7 @@ import '../App.css';
 
 
 class AboutMe extends Component {
-  render() {
+  render()  {
     return(
       <Grid  className="aboutme-grid">
     

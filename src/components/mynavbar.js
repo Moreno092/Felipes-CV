@@ -41,6 +41,5 @@ import'../App.js';
 
 
     
-  
 
 export default Mynavbar;
