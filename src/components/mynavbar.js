@@ -30,7 +30,7 @@ import'../App.js';
               </Drawer>
               <Content>
                   <div className="page-content" />
-                  <App/>
+                  
               </Content>
           </Layout>
       </div>
