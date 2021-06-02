@@ -17,7 +17,7 @@ class AboutMe extends Component {
                 style={{height: '200px'}}
                  />
                  <h2 className="aboutme-h2">Felipe Nyberg</h2>
-                 <h4 style={{color: 'grey'}}>Programmer,Student, Developer &amp; Awsome</h4>
+                 <h4 style={{color: 'grey'}}>Programmer,Student, Developer &amp; Awesome</h4>
             
 
             

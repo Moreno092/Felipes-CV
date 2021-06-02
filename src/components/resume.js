@@ -42,7 +42,7 @@ class Resume extends Component {
          <div className="line">Student</div>
          <div className="line">Developer</div>
          <div className="line"> &amp; </div>
-         <div className="line">Awsome</div>
+         <div className="line">Awesome</div>
         </div>
           </Cell>
           <Cell className="resume-right-col" col={8}>
@@ -50,34 +50,34 @@ class Resume extends Component {
 
 
             <Education
-              startYear={2002}
-              endYear={2006}
-              schoolName="My University"
-              schoolDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+              startYear={2017}
+              endYear={2018}
+              schoolName="Art Collage"
+              schoolDescription="A diploma course where I got to study html5, Wordpress, SEO and how to structure your own website."
                />
 
                <Education
-                 startYear={2007}
-                 endYear={2009}
-                 schoolName="My 2nd University"
-                 schoolDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                 startYear={2020}
+                 endYear={2022}
+                 schoolName="Handelsakademin"
+                 schoolDescription="At Handelsakademin I studied Object Oriented Programming (OOP) where I learned to be a complete programmer during my two years where I learned to handle c #, javascript, html, css, and also work in the same way as you do in working life with scrum ."
                   />
                 <hr style={{borderTop: '3px solid #e22947'}} />
 
               <h2>Experience</h2>
 
             <Experience
-              startYear={2009}
-              endYear={2012}
-              jobName="First Job"
-              jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+              startYear={2018}
+              endYear={2019}
+              jobName="self-employed"
+              jobDescription="I had my own company in wordpress web design where I designed and made websites for customers around Gothenburg"
               />
 
               <Experience
-                startYear={2012}
-                endYear={2016}
-                jobName="Second Job"
-                jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                startYear={2020}
+                endYear={'now'}
+                jobName="freelancer"
+                jobDescription="right now I freelance most at a large web development company in sthlm called EmpireWebbByrå where I help design and code websites"
                 />
               <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Skills</h2>

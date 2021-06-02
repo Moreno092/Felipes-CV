@@ -26,7 +26,7 @@ class Landing extends Component {
             <hr/>
 
           <p>HTML/CSS | Fontawesome | JavaScript | React | React Native | NodeJS | React-MDL </p>
-          <p><Button raised accent href="http://localhost:3004/aboutme" ref="noopener noreferrer">Click here to read more about me</Button></p>
+          <p><Button raised accent href="http://localhost:3004/aboutme" ref="noopener noreferrer"><u>Click here to read more about me</u></Button></p>
 
         <div className="social-links">
 
