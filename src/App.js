@@ -21,6 +21,7 @@ const App = () => (
     <Route path="/contact" component={Contact} />
     <Route path="/resume" component={Resume} />
     </Switch>
+    <Mynavbar />
     </div>
     
    )
