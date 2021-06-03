@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import { Grid, Cell, List, ListItem, ListItemContent } from 'react-mdl';
+import { Grid, Cell, List, ListItem, ListItemContent,  } from 'react-mdl';
 import '../App.css';
-
+import { Link } from 'react-router-dom';
 
 class Contact extends Component {
   render() {
@@ -42,7 +42,7 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-github" aria-hidden="true"/>
-                    <a href="https://github.com/Moreno092" rel="noopener noreferrer" target="_blank">Github</a>
+                    <Link to="https://github.com/Moreno092" rel="noopener noreferrer" target="_blank">Github</Link>
                   </ListItemContent>
                 </ListItem>
 

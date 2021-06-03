@@ -6,6 +6,24 @@ import '../App.css';
 
 
 class Landing extends Component {
+
+  
+  constructor(){
+    super();
+    this.state = {
+      numberOfRepos: 0
+
+    }
+  }
+  componentDidMount() {
+    fetch('https://api.github.com/users/Moreno092/repos')
+    .then(response => response.json())
+    .then(json => { console.log(json.length)
+       this.setState({
+         numberOfRepos: json.length
+       })
+    });
+  }
   render() {
     return(
         
@@ -24,9 +42,12 @@ class Landing extends Component {
               <h3 className="landing-h3">Made with</h3>
               
             <hr/>
+            <div>
+              <p>Number of repos right now: {this.state.numberOfRepos}</p>
+            </div>
 
           <p>HTML/CSS | Fontawesome | JavaScript | React | React Native | NodeJS | React-MDL </p>
-          <p><Button raised accent href="http://localhost:3004/aboutme" ref="noopener noreferrer"><u>Click here to read more about me</u></Button></p>
+          <p><Button raised accent href="https://moreno092.github.io/aboutme" ref="noopener noreferrer"><u>Click here to read more about me</u></Button></p>
 
         <div className="social-links">
 
