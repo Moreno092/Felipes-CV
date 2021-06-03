@@ -15,8 +15,8 @@
   width: 100%;
   height: 100%;
 }
-.mdl-layout, .mdl-progress {
-  position: fixed !important;
+.mdl-layout, .mdl-js-layout, .has-scrolling-header, .has-drawer, .is-upgraded {
+  position: unset !important;
 }
 
 
