@@ -21,7 +21,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:test": "cypress run -s 'cypress/integration/*/-spec.js'"
   },
   "homepage": "http://Moreno092.github.io/Felipes-CV",
   "devDependencies": {
