@@ -2,7 +2,9 @@
   background: #833ab4;  
   background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); 
   background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); 
+
 }
+
 
 .landing-grid {
   background: #833ab4;  
@@ -21,6 +23,9 @@
 }
 .mdl-layout__drawer{
   position: fixed !important;
+}
+.mdl-layout__drawer-button{
+  position: unset !important;
 }
 
 
