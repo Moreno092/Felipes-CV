@@ -42,7 +42,7 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-github" aria-hidden="true"/>
-                    <Link to="https://github.com/Moreno092" rel="noopener noreferrer" target="_blank">Github</Link>
+                    <a href="https://github.com/Moreno092" rel="noopener noreferrer" target="_blank">Github</a>
                   </ListItemContent>
                 </ListItem>
 
