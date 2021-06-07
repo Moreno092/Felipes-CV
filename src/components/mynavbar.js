@@ -12,7 +12,7 @@ import'../App.js';
   
             <div className="demo-big-content">
           <Layout>
-              <Header className="header-color" title={<Link style={{textDecoration: 'none', color: 'white'}} to="/">MyPortfolio</Link>} scroll>
+              <Header className="header-color" title={<Link style={{textDecoration: 'none', color: 'white'}} to="/Felipes-CV">MyPortfolio</Link>} scroll>
                   <Navigation>
                       <Link to="/resume">Resume</Link>
                       <Link to="/aboutme">About Me</Link>
@@ -20,7 +20,7 @@ import'../App.js';
       
                   </Navigation>
               </Header>
-              <Drawer title={<Link style={{textDecoration: 'none', color: 'black'}} to="/">MyPortfolio</Link>}>
+              <Drawer title={<Link style={{textDecoration: 'none', color: 'black'}} to="/Felipes-CV">MyPortfolio</Link>}>
                   <Navigation>
                     <Link to="/resume">Resume</Link>
                     <Link to="/aboutme">About Me</Link>          

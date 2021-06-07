@@ -6,12 +6,13 @@
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "cypress": "^2.1.0",
     "react": "^16.4",
     "react-bootstrap": "^1.6.0",
     "react-dom": "^16.4",
     "react-mdl": "^2.1.0",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^4.0.3",
     "web-vitals": "^1.1.2"
   },
   "scripts": {

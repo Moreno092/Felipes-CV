@@ -42,12 +42,14 @@ class Landing extends Component {
               <h3 className="landing-h3">Made with</h3>
               
             <hr/>
-            <div>
-              <p>Number of repos right now: {this.state.numberOfRepos}</p>
-            </div>
+            
 
           <p>HTML/CSS | Fontawesome | JavaScript | React | React Native | NodeJS | React-MDL </p>
-          <p><Button raised accent href="https://moreno092.github.io/aboutme" ref="noopener noreferrer"><u>Click here to read more about me</u></Button></p>
+          <p><Button raised accent  to="/aboutme" ref="noopener noreferrer"><u>Click here to read more about me</u></Button></p>
+          <hr />
+          <div>
+              <p>Number of repos right now: {this.state.numberOfRepos}</p>
+            </div>
 
         <div className="social-links">
 
