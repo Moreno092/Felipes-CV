@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Felipes-CV/static/css/main.a8c52619.chunk.css",
-    "main.js": "/Felipes-CV/static/js/main.57cf36b9.chunk.js",
-    "main.js.map": "/Felipes-CV/static/js/main.57cf36b9.chunk.js.map",
+    "main.js": "/Felipes-CV/static/js/main.12a7ab19.chunk.js",
+    "main.js.map": "/Felipes-CV/static/js/main.12a7ab19.chunk.js.map",
     "runtime-main.js": "/Felipes-CV/static/js/runtime-main.1b91e483.js",
     "runtime-main.js.map": "/Felipes-CV/static/js/runtime-main.1b91e483.js.map",
     "static/css/2.73cc2f71.chunk.css": "/Felipes-CV/static/css/2.73cc2f71.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.73cc2f71.chunk.css",
     "static/js/2.8b7ed593.chunk.js",
     "static/css/main.a8c52619.chunk.css",
-    "static/js/main.57cf36b9.chunk.js"
+    "static/js/main.12a7ab19.chunk.js"
   ]
 }
