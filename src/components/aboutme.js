@@ -17,15 +17,23 @@ class AboutMe extends Component {
                 style={{height: '200px'}}
                  />
                  <h2 className="aboutme-h2">Felipe Nyberg</h2>
-                 <h4 style={{color: 'grey'}}>Programmer,Student, Developer &amp; Awesome</h4>
+                 <h4 style={{color: 'grey'}}>Fullstack Developer, Wordpressdesigner &amp; Awesome</h4>
             
+                 <hr style={{borderTop: '3px solid #833fb2', width: '100%'}}/>
+            
+            <h4 style={{color: 'grey'}}>Welcome to my resume</h4>
+            
+            <p>
 
-            
-            <h4 style={{color: 'grey'}}>Programmer</h4>
-            <hr style={{borderTop: '3px solid #833fb2', width: '100%'}}/>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+A social and driven guy who is passionate about fixing problem solutions
+
+I am very easy to learn new things and adapted well. Works well in a group but can also take responsibility.
+
+I think my previous experiences can be helpful in my job as a system developer! Because I have worked in web design, I am passionate about fixing problem solutions.
+
+But of course I am also nice and helpful. From my latest job in wordpress design, I have learned to work fast and efficiently, under stress and pressure.
+
+I hope you find what you read interesting! If you want to contact me regarding jobs etc, you can just click on the "Contact me" link below
             </p>
             <hr style={{borderTop: '3px solid #833fb2', width: '100%'}}/>
             <h5>City</h5>

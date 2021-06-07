@@ -45,7 +45,8 @@ class Landing extends Component {
             
 
           <p>HTML/CSS | Fontawesome | JavaScript | React | React Native | NodeJS | React-MDL </p>
-          <p><Button raised accent  href="/aboutme" ref="noopener noreferrer"><u>Click here to read more about me</u></Button></p>
+          
+          {/* <p><Button raised accent  href="/aboutme" ref="noopener noreferrer"><u>Click here to read more about me</u></Button></p> */}
           <hr />
           <div>
               <p>Number of repos right now: {this.state.numberOfRepos}</p>
