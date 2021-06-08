@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Felipes-CV/static/css/main.8068a9be.chunk.css",
+    "main.css": "/Felipes-CV/static/css/main.1eda5606.chunk.css",
     "main.js": "/Felipes-CV/static/js/main.12a7ab19.chunk.js",
     "main.js.map": "/Felipes-CV/static/js/main.12a7ab19.chunk.js.map",
     "runtime-main.js": "/Felipes-CV/static/js/runtime-main.1b91e483.js",
@@ -12,14 +12,14 @@
     "static/js/3.78171f0c.chunk.js.map": "/Felipes-CV/static/js/3.78171f0c.chunk.js.map",
     "index.html": "/Felipes-CV/index.html",
     "static/css/2.73cc2f71.chunk.css.map": "/Felipes-CV/static/css/2.73cc2f71.chunk.css.map",
-    "static/css/main.8068a9be.chunk.css.map": "/Felipes-CV/static/css/main.8068a9be.chunk.css.map",
+    "static/css/main.1eda5606.chunk.css.map": "/Felipes-CV/static/css/main.1eda5606.chunk.css.map",
     "static/js/2.8b7ed593.chunk.js.LICENSE.txt": "/Felipes-CV/static/js/2.8b7ed593.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1b91e483.js",
     "static/css/2.73cc2f71.chunk.css",
     "static/js/2.8b7ed593.chunk.js",
-    "static/css/main.8068a9be.chunk.css",
+    "static/css/main.1eda5606.chunk.css",
     "static/js/main.12a7ab19.chunk.js"
   ]
 }
