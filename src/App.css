@@ -25,7 +25,8 @@
   position: fixed !important;
 }
 .mdl-layout__drawer-button{
-  position: unset !important;
+  position: fixed !important;
+  top: 20px;
 }
 
 
